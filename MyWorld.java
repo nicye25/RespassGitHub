@@ -19,6 +19,7 @@ public class MyWorld extends World
         super(600, 400, 1); 
         prepare();
     }
+    
     /**
      * Prepare the world for the start of the program.
      * That is: create the initial objects and add them to the world.
@@ -27,5 +28,7 @@ public class MyWorld extends World
     {
         phone phone = new phone();
         addObject(phone,250,271);
+        phone phone2 = new phone();
+        addObject(phone2,390,123);
     }
 }

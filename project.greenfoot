@@ -1,11 +1,14 @@
 #Greenfoot project file
 class.phone.image=teddybear.png
+dependency1.from=MyWorld
+dependency1.to=phone
+dependency1.type=UsesDependency
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
-height=551
-package.numDependencies=0
+height=624
+package.numDependencies=1
 package.numTargets=2
 project.charset=UTF-8
 publish.hasSource=false
@@ -36,7 +39,7 @@ target2.width=120
 target2.x=0
 target2.y=0
 version=3.0.0
-width=812
+width=907
 world.lastInstantiated=MyWorld
-xPosition=370
-yPosition=165
+xPosition=278
+yPosition=109
